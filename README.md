@@ -1,4 +1,4 @@
-# Vue Todo
+# Vuedo (Vue Todo)
 
 -   Vue Option API
--   TailwindCSS
+-   TailwindCSS with flowbite
